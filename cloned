@@ -1,0 +1,5 @@
+git clone https://github.com/huytd/agar.io-clone.git
+cd agar.io-clone
+npm install -g gulp
+npm install
+gulp run
