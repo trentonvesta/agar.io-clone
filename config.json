@@ -36,7 +36,7 @@
       "connectionLimit": 100,
       "host": "DEFAULT",
       "user": "root",
-      "password": "DEFAULT",
+      "password": "HUNTER",
       "database": "DEFAULT",
       "debug": false
     }
