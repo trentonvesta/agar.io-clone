@@ -19,7 +19,8 @@
     "gameWidth": 5000,
     "gameHeight": 5000,
     "adminPass": "HUNTER",
-    "gameMass": 2000,
+    "gameMass": 200,
+    "fireMass": 200
     "maxFood": 1000,
     "maxVirus": 1,
     "slowBase": 4.5,
