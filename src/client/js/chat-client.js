@@ -60,6 +60,10 @@ class ChatClient {
         this.registerCommand('kick', 'Kick a player, for admins only.', function (args) {
             self.socket.emit('kick', args);
         });
+          
+        this.registerCommand('addmass', 'Add Mass, for admins only.', function (args) {
+            self.socket.emit('addmass', args);
+        });
         global.chatClient = this;
     }
 
