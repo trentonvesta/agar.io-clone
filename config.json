@@ -6,7 +6,7 @@
     "fireFood": 20,
     "limitSplit": 12,
     "defaultPlayerMass": 100,
-	"virus": {
+	"virus": {30
     "fill": "#33ff33",
   	"stroke": "#19D119",
 		"strokeWidth": 20,
@@ -20,8 +20,9 @@
     "gameHeight": 5000,
     "adminPass": "HUNTER",
     "gameMass": 2000,
+    "fireMass": 2000,
     "maxFood": 1000,
-    "maxVirus": 1,
+    "maxVirus": 30,
     "slowBase": 4.5,
     "logChat": 0,
     "networkUpdateFactor": 40,
